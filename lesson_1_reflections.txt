@@ -26,6 +26,3 @@ Because if something does not work after some changes I can always come back to 
 Now that you have your workspace set up, what do you want to try using Git for?
 
 To do control version
-
-How might using version control make you more confident to make changes that could break something?
-
